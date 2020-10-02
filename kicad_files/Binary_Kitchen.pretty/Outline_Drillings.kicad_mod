@@ -1,0 +1,12 @@
+(module "outline" (layer F.Cu)
+(fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
+(effects (font (size 1.27 1.27) (thickness 0.15)))
+)
+(fp_text value Val** (at 0 0) (layer F.SilkS) hide
+(effects (font (size 1.27 1.27) (thickness 0.15)))
+)
+(pad 1 thru_hole circle (at -47.24599991738 -22.246) (size 2.4555296 2.4555296) (drill 2.4555296) (layers *.Cu *.Mask))
+(pad 2 thru_hole circle (at -47.24599991738 22.346000999999994) (size 2.45553 2.45553) (drill 2.45553) (layers *.Cu *.Mask))
+(pad 3 thru_hole circle (at 47.34600092038003 22.346000999999994) (size 2.45553 2.45553) (drill 2.45553) (layers *.Cu *.Mask))
+(pad 4 thru_hole circle (at 47.34600092038003 -22.246) (size 2.45553 2.45553) (drill 2.45553) (layers *.Cu *.Mask))
+)
