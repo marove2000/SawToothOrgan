@@ -1,6 +1,6 @@
 Saw Tooth Organ - DIP
 
-Some Transistors are creating a saw tooth wave enabling a very simple organ which you can play.
+Some Transistors creating a saw tooth wave enabling a very simple organ which you can play.
 
 <img src="images/front.png" height=400px alt="Saw Tooth Organ"> <img src="images/back.png" height=400px alt="Saw Tooth Organ">
 
