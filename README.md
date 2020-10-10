@@ -23,11 +23,11 @@ Some Transistors creating a saw tooth wave enabling a very simple organ which yo
 | 1        | R4          | 220k Ohm Resistor 1%  | red-red-brown-brown-brown       |
 | 1        | R5          | 470k Ohm Resistor 1%  | yellow-violet-black-brown-brown |
 | 1        | R6          | 82 Ohm Resistor 1%    | grey-brown-blue-black-brown     |
-| 1        | RK4         | 3k Ohm Resistor       | orange-black-brown-gold-brown   |
-| 4        | RK5-RK8     | 2.7k Ohm Resistor     | red-violet-brown-gold-brown     |
-| 1        | RK9,Rk10    | 2.2k Ohm Resistor     | red-red-brown-gold-brown        |
-| 1        | RK11        | 2k Ohm Resistor       | red-black-black-gold-brown      |
-| 1        | RK12        | 1.2k Ohm Resistor     | brown-red-black-gold-brown      |
+| 1        | RK4         | 3k Ohm Resistor 1%    | orange-black-brown-gold-brown   |
+| 4        | RK5-RK8     | 2.7k Ohm Resistor 1%  | red-violet-brown-gold-brown     |
+| 1        | RK9,Rk10    | 2.2k Ohm Resistor 1%  | red-red-brown-gold-brown        |
+| 1        | RK11        | 2k Ohm Resistor 1%    | red-black-black-gold-brown      |
+| 1        | RK12        | 1.2k Ohm Resistor 1%  | brown-red-black-gold-brown      |
 | 1        | RV6         | 25k Ohm Potentiometer |                                 |
 | 1        | SW1         | Push Button           |                                 |
 | 1        |             | PCB                   |                                 |
