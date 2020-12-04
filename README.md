@@ -14,7 +14,7 @@ Some Transistors creating a saw tooth wave enabling a very simple organ which yo
 | 1        | BT1         | 9V Battery Connector  |                                 |
 | 1        | C1          | 22nF Capacitor        | 223                             |
 | 1        | D1          | Green 5mm LED         |                                 |
-| 1        | LS1         | Speaker               |                                 |
+| 1        | LS1         | 8-100 Ohm Speaker*    |                                 |
 | 3        | Q1-Q3       | BC547C NPN transistor |                                 |
 | 1        | Q4          | BC557C PNP transistor |                                 |
 | 4        | R1, RK1-RK3 | 3.3k Ohm Resistor 1%  | orange-orange-red-gold-brown    |
@@ -31,6 +31,7 @@ Some Transistors creating a saw tooth wave enabling a very simple organ which yo
 | 1        | RV6         | 25k Ohm Potentiometer |                                 |
 | 1        | SW1         | Push Button           |                                 |
 | 1        |             | PCB                   |                                 |
+* You have to adjust R6 for the Speaker! 82 Ohm suits for 8 Ohm to 50 Ohm Speaker. A 100 Ohm speaker needs 0 Ohm.
 
 ### Manual
 You can find the manual and pictures of every step here: https://github.com/Binary-Kitchen/SolderingTutorial
