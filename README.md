@@ -2,7 +2,7 @@
 
 Some Transistors creating a saw tooth wave enabling a very simple organ which you can play.
 
-<img src="manual/images/PXL_20201205_114313310.jpg" width=300px alt="Saw Tooth Organ"> <img src="manual/images/PXL_20201205_114338054.jpg" width=300px alt="Saw Tooth Organ">
+<img src="images/PXL_20201205_114313310.jpg" width=300px alt="Saw Tooth Organ"> <img src="images/PXL_20201205_114338054.jpg" width=300px alt="Saw Tooth Organ">
 
 - Status: **Complete**
 - Difficulty: **2/5**
